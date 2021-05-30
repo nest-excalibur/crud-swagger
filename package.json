@@ -1,6 +1,6 @@
 {
   "name": "@nest-excalibur/crud-swagger",
-  "version": "0.0.1-beta",
+  "version": "0.0.1",
   "description": "Swagger extension for CrudController",
   "main": "lib/index.js",
   "scripts": {
