@@ -2,6 +2,15 @@
 
 For Document the API-REST paths on swagger, you need to make use of `CrudDoc` decorator or `CrudApi` decorator.
 
+
+## Installation
+
+```shell
+npm i @nest-excalibur/common-api --save-dev
+npm i @nest-excalibur/crud-swagger
+```
+
+
 Example:
 For every CRUD method you should make a configuration. The follwing example shows a configuration object:
 
