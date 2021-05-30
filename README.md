@@ -1,3 +1,10 @@
+<img src="https://img.shields.io/npm/dt/@nest-excalibur/crud-swagger"></img>
+<img src="https://img.shields.io/npm/v/@nest-excalibur/crud-swagger"></img>
+<img src="https://img.shields.io/npm/l/@nest-excalibur/crud-swagger"></img>
+<img src="https://img.shields.io/github/stars/nest-excalibur/crud-swagger"></img>
+<img src="https://img.shields.io/github/issues/nest-excalibur/crud-swagger"></img>
+
+
 # Crud Swagger
 
 For Document the API-REST paths on swagger, you need to make use of `CrudDoc` decorator or `CrudApi` decorator.
