@@ -1,6 +1,6 @@
 {
   "name": "@nest-excalibur/crud-swagger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Swagger extension for CrudController",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@nest-excalibur/common-api": "^0.0.2-test",
-    "@nestjs/common": "7.6.15",
+    "@nestjs/common": "^7.6.15",
     "@nestjs/swagger": "^4.8.0",
     "@types/lodash": "^4.14.170",
     "@typescript-eslint/eslint-plugin": "^4.21.0",
