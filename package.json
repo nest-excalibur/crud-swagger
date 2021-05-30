@@ -1,6 +1,6 @@
 {
   "name": "@nest-excalibur/crud-swagger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Swagger extension for CrudController",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,8 @@
   "keywords": [
     "swagger",
     "nestjs",
-    "common/api"
+    "nest-excalibur/common-api",
+    "open-api"
   ],
   "author": "Andrés Velasco",
   "license": "MIT",
@@ -30,5 +31,8 @@
   },
   "files": [
     "lib"
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/nest-excalibur/crud-swagger"
+  }
 }
