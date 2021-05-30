@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .ts"
   },
   "devDependencies": {
-    "@nest-excalibur/common-api": "^0.0.2-test",
+    "@nest-excalibur/common-api": "^0.0.2",
     "@nestjs/common": "^7.6.15",
     "@nestjs/swagger": "^4.8.0",
     "@types/lodash": "^4.14.170",
